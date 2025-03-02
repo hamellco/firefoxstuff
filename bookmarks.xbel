@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
+<xbel version="1.0">
+<!--- highestId :329: for Floccus bookmark sync browser extension -->
+
+<folder id="1">
+  <title>Bookmarks Menu</title>
+</folder>
+<folder id="2">
+  <title>Bookmarks Bar</title>
+  <bookmark href="https://app.fastmail.com/mail/Inbox/Tc59476501300e3d6.M5467afb11869e8c41488f9e9?u=a43940fb" id="5">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://mail.proton.me/u/2/inbox" id="6">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://feedbin.com/" id="7">
+    <title></title>
+  </bookmark>
+  <folder id="8">
+    <title>🎵</title>
+    <bookmark href="https://www.bbc.co.uk/sounds/play/live:bbc_radio_one_dance" id="16">
+      <title>BBC Radio 1 Dance</title>
+    </bookmark>
+    <bookmark href="https://www.di.fm/" id="17">
+      <title>DI.FM</title>
+    </bookmark>
+    <bookmark href="https://rainwave.cc/game/#!/" id="18">
+      <title>Rainwave</title>
+    </bookmark>
+    <bookmark href="https://player.siriusxm.com/home/music" id="19">
+      <title>SiriusXM</title>
+    </bookmark>
+  </folder>
+  <folder id="9">
+    <title>📡</title>
+    <bookmark href="https://www.last.fm/user/jackdecarlo_" id="20">
+      <title>Last.fm</title>
+    </bookmark>
+    <bookmark href="https://letterboxd.com/jackdecarlo_/" id="21">
+      <title>Letterboxd</title>
+    </bookmark>
+    <bookmark href="https://myanimelist.net/profile/jackdecarlo_" id="22">
+      <title>MyAnimeList</title>
+    </bookmark>
+    <bookmark href="https://backloggery.com/jackdecarlo_" id="23">
+      <title>Backloggery</title>
+    </bookmark>
+    <bookmark href="https://trakt.tv/users/jackdecarlo_" id="24">
+      <title>Trakt</title>
+    </bookmark>
+    <bookmark href="https://mastodon.social/home" id="25">
+      <title>Mastodon</title>
+    </bookmark>
+    <bookmark href="https://twitter.com/home" id="26">
+      <title>Home / X</title>
+    </bookmark>
+  </folder>
+  <folder id="10">
+    <title>📰</title>
+    <bookmark href="https://www.reddit.com/" id="27">
+      <title>reddit</title>
+    </bookmark>
+    <bookmark href="https://www.cnn.com/" id="28">
+      <title>CNN</title>
+    </bookmark>
+    <bookmark href="https://www.nytimes.com/" id="29">
+      <title>The New York Times</title>
+    </bookmark>
+  </folder>
+  <folder id="11">
+    <title>💼</title>
+    <folder id="30">
+      <title>Accounting</title>
+      <folder id="72">
+        <title>New folder</title>
+      </folder>
+      <bookmark href="https://my.freshbooks.com/#/dashboard" id="73">
+        <title>Freshbooks</title>
+      </bookmark>
+      <bookmark href="https://app.gusto.com/payroll_admin/" id="74">
+        <title>Gusto</title>
+      </bookmark>
+    </folder>
+    <folder id="31">
+      <title>Communication</title>
+      <bookmark href="https://zoom.us/profile" id="75">
+        <title>Zoom</title>
+      </bookmark>
+      <bookmark href="https://meet.google.com/?pli=1" id="76">
+        <title>Google Meet</title>
+      </bookmark>
+      <bookmark href="https://voice.google.com/u/0/calls" id="77">
+        <title>Google Voice</title>
+      </bookmark>
+    </folder>
+    <folder id="32">
+      <title>Development Projects</title>
+      <bookmark href="https://drive.google.com/drive/folders/1_aQqtK0lPZhamMK9oSirWkQWnS8tD8Ex" id="78">
+        <title>NYSAA DB</title>
+      </bookmark>
+      <bookmark href="https://drive.google.com/drive/folders/1kA1JLA1rS_QWlF_O9APrpUDbHI85YmeF" id="79">
+        <title>Beneficiary Site</title>
+      </bookmark>
+    </folder>
+    <folder id="33">
+      <title>MSP Clients</title>
+      <bookmark href="https://drive.google.com/drive/folders/1R2VeKcp4r19x0koWoLOnCOkF1RrsZzdN" id="80">
+        <title>My Digital Office</title>
+      </bookmark>
+      <bookmark href="https://drive.google.com/drive/folders/1G5WtxPfG4tihxnomKwdH_C87FTIFPPex" id="81">
+        <title>Lifetime Assistance</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://docs.google.com/spreadsheets/d/1lbMdTC5eD4RQrk0A5BccHPq5xw_OlOORjKBVIlqX1Nw/edit#gid=477072801" id="34">
+      <title>Project Hours</title>
+    </bookmark>
+    <bookmark href="https://docs.google.com/spreadsheets/d/1c8lO3z-F7nPlaOzmgsYOACaa3zHXljhxJFvkKGrQCWM/edit#gid=477072801" id="35">
+      <title>Retainer Hours</title>
+    </bookmark>
+    <bookmark href="https://youtrack.hamell.co/dashboard?id=94630b94-11c3-401a-804d-edda1daecc68" id="36">
+      <title>YouTrack</title>
+    </bookmark>
+    <bookmark href="https://pdf.jowston.xyz/" id="37">
+      <title>Stirling PDF</title>
+    </bookmark>
+    <bookmark href="https://chat.openai.com/" id="38">
+      <title>ChatGPT</title>
+    </bookmark>
+    <bookmark href="https://app.remotepc.com/hd-app/help" id="39">
+      <title>RemotePC™ HelpDesk - Remote Support Solution</title>
+    </bookmark>
+    <bookmark href="https://unifi.ui.com/" id="119">
+      <title>UniFi Site Manager</title>
+    </bookmark>
+    <bookmark href="https://secure.backblaze.com/user_overview.htm" id="120">
+      <title>Backblaze</title>
+    </bookmark>
+    <bookmark href="https://www.cloudflare.com/" id="121">
+      <title>Cloudflare</title>
+    </bookmark>
+  </folder>
+  <folder id="12">
+    <title>🧪</title>
+    <bookmark href="http://localhost:32400/web/index.html#!/" id="40">
+      <title>Plex</title>
+    </bookmark>
+    <bookmark href="http://10.0.0.178:32400/web/index.html#!/login?redirectUrl=%2F" id="41">
+      <title>Plex (LAN)</title>
+    </bookmark>
+    <bookmark href="http://localhost:9699/" id="42">
+      <title>Prowlarr-Anime</title>
+    </bookmark>
+    <bookmark href="http://localhost:9697/" id="43">
+      <title>Prowlarr-Normal</title>
+    </bookmark>
+    <bookmark href="http://localhost:7869/" id="44">
+      <title>Radarr-Movies</title>
+    </bookmark>
+    <bookmark href="http://localhost:8989/" id="45">
+      <title>Sonarr-Series</title>
+    </bookmark>
+    <bookmark href="http://localhost:7969/" id="46">
+      <title>Radarr-Anime</title>
+    </bookmark>
+    <bookmark href="http://localhost:8969/" id="47">
+      <title>Sonarr-Anime</title>
+    </bookmark>
+    <bookmark href="http://127.0.0.1:8080/sabnzbd/" id="48">
+      <title>SABnzbd</title>
+    </bookmark>
+    <bookmark href="https://theposterdb.com/set/19366" id="49">
+      <title>Quentin Tarantino Set By IntoThePosterverse | The Poster Database (TPDb)</title>
+    </bookmark>
+    <bookmark href="https://theposterdb.com/poster/518263" id="122">
+      <title>In Association With Marvel - willtong93 | The Poster Database (TPDb)</title>
+    </bookmark>
+  </folder>
+  <folder id="13">
+    <title>⚒️</title>
+    <bookmark href="https://www.cloudflare.com/" id="50">
+      <title>Cloudflare</title>
+    </bookmark>
+    <bookmark href="https://unifi.ui.com/" id="51">
+      <title>UniFi Site Manager</title>
+    </bookmark>
+    <bookmark href="https://chat.openai.com/" id="52">
+      <title>ChatGPT</title>
+    </bookmark>
+    <bookmark href="https://secure.backblaze.com/user_overview.htm" id="53">
+      <title>Backblaze</title>
+    </bookmark>
+  </folder>
+  <folder id="14">
+    <title>🕳️</title>
+    <folder id="54">
+      <title>A24</title>
+      <bookmark href="https://en.wikipedia.org/wiki/American_Honey_(film)" id="82">
+        <title>American Honey (film) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Moonlight_(2016_film)" id="83">
+        <title>Moonlight (2016 film) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Oasis:_Supersonic" id="84">
+        <title>Oasis: Supersonic - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/The_Monster_(2016_film)" id="85">
+        <title>The Monster (2016 film) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/20th_Century_Women" id="86">
+        <title>20th Century Women - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Trespass_Against_Us" id="87">
+        <title>Trespass Against Us - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/The_Blackcoat%27s_Daughter" id="88">
+        <title>The Blackcoat&apos;s Daughter - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Free_Fire" id="89">
+        <title>Free Fire - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/The_Lovers_(2017_film)" id="90">
+        <title>The Lovers (2017 film) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/It_Comes_at_Night" id="91">
+        <title>It Comes at Night - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/A_Ghost_Story" id="129">
+        <title>A Ghost Story - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Menashe_(film)" id="130">
+        <title>Menashe (film) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Good_Time_(film)" id="131">
+        <title>Good Time (film) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Woodshock" id="132">
+        <title>Woodshock - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/The_Florida_Project" id="133">
+        <title>The Florida Project - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/The_Killing_of_a_Sacred_Deer" id="134">
+        <title>The Killing of a Sacred Deer - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Lady_Bird_(film)" id="135">
+        <title>Lady Bird (film) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/The_Disaster_Artist_(film)" id="136">
+        <title>The Disaster Artist (film) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/The_Ballad_of_Lefty_Brown" id="137">
+        <title>The Ballad of Lefty Brown - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/The_Vanishing_of_Sidney_Hall" id="138">
+        <title>The Vanishing of Sidney Hall - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/The_Last_Movie_Star" id="162">
+        <title>The Last Movie Star - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Lean_on_Pete" id="163">
+        <title>Lean on Pete - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Backstabbing_for_Beginners" id="164">
+        <title>Backstabbing for Beginners - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Hereditary_(film)" id="165">
+        <title>Hereditary (film) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Woman_Walks_Ahead" id="166">
+        <title>Woman Walks Ahead - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Hot_Summer_Nights_(film)" id="167">
+        <title>Hot Summer Nights (film) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/A_Prayer_Before_Dawn_(film)" id="168">
+        <title>A Prayer Before Dawn (film) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Mid90s" id="169">
+        <title>Mid90s - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/1%25_(film)" id="170">
+        <title>1% (film) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/The_Hole_in_the_Ground_(film)" id="171">
+        <title>The Hole in the Ground (film) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Climax_(2018_film)" id="184">
+        <title>Climax (2018 film) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/High_Life_(2018_film)" id="185">
+        <title>High Life (2018 film) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Native_Son_(2019_film)" id="186">
+        <title>Native Son (2019 film) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Under_the_Silver_Lake" id="187">
+        <title>Under the Silver Lake - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/The_Souvenir" id="188">
+        <title>The Souvenir - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/The_Last_Black_Man_in_San_Francisco" id="189">
+        <title>The Last Black Man in San Francisco - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Midsommar" id="190">
+        <title>Midsommar - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/The_Farewell_(2019_film)" id="191">
+        <title>The Farewell (2019 film) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Skin_(2018_feature_film)" id="192">
+        <title>Skin (2018 feature film) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/The_Death_of_Dick_Long" id="193">
+        <title>The Death of Dick Long - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Low_Tide" id="201">
+        <title>Low Tide - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/The_Elephant_Queen" id="202">
+        <title>The Elephant Queen - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/The_Kill_Team_(2019_film)" id="203">
+        <title>The Kill Team (2019 film) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Waves_(film)" id="204">
+        <title>Waves (film) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Uncut_Gems" id="205">
+        <title>Uncut Gems - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Saint_Maud" id="206">
+        <title>Saint Maud - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Minari_(film)" id="207">
+        <title>Minari (film) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/False_Positive_(film)" id="208">
+        <title>False Positive (film) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Zola_(film)" id="209">
+        <title>Zola (film) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Val_(film)" id="210">
+        <title>Val (film) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/The_Green_Knight_(film)" id="219">
+        <title>The Green Knight (film) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Lamb_(2021_film)" id="220">
+        <title>Lamb (2021 film) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/The_Souvenir_Part_II" id="221">
+        <title>The Souvenir Part II - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/C%27mon_C%27mon_(film)" id="222">
+        <title>C&apos;mon C&apos;mon (film) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/The_Humans_(film)" id="223">
+        <title>The Humans (film) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Red_Rocket_(film)" id="224">
+        <title>Red Rocket (film) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/The_Tragedy_of_Macbeth_(2021_film)" id="225">
+        <title>The Tragedy of Macbeth (2021 film) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/After_Yang" id="226">
+        <title>After Yang - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Everything_Everywhere_All_at_Once" id="227">
+        <title>Everything Everywhere All at Once - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Men_(2022_film)" id="228">
+        <title>Men (2022 film) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Elizabeth:_A_Portrait_in_Parts" id="238">
+        <title>Elizabeth: A Portrait in Parts - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Bodies_Bodies_Bodies" id="239">
+        <title>Bodies Bodies Bodies - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Funny_Pages_(film)" id="240">
+        <title>Funny Pages (film) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Instinct_(2019_film)" id="241">
+        <title>Instinct (2019 film) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/God%27s_Creatures_(film)" id="242">
+        <title>God&apos;s Creatures (film) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Stars_at_Noon_(2022_film)" id="243">
+        <title>Stars at Noon (2022 film) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Aftersun" id="244">
+        <title>Aftersun - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Causeway_(film)" id="245">
+        <title>Causeway (film) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/The_Inspection" id="246">
+        <title>The Inspection - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/White_Noise_(2022_film)" id="247">
+        <title>White Noise (2022 film) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/The_Eternal_Daughter" id="257">
+        <title>The Eternal Daughter - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/The_Whale_(2022_film)" id="258">
+        <title>The Whale (2022 film) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/This_Place_Rules" id="259">
+        <title>This Place Rules - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Sharper_(film)" id="260">
+        <title>Sharper (film) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Stop_Making_Sense" id="261">
+        <title>Stop Making Sense - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/The_Deepest_Breath" id="262">
+        <title>The Deepest Breath - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/The_Sea_of_Trees" id="263">
+        <title>The Sea of Trees - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Green_Room_(film)" id="264">
+        <title>Green Room (film) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/The_Adderall_Diaries_(film)" id="265">
+        <title>The Adderall Diaries (film) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/De_Palma_(film)" id="266">
+        <title>De Palma (film) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Into_the_Forest" id="276">
+        <title>Into the Forest - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Equals_(film)" id="277">
+        <title>Equals (film) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/The_Rover_(2014_film)" id="278">
+        <title>The Rover (2014 film) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Life_After_Beth" id="279">
+        <title>Life After Beth - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Revenge_of_the_Green_Dragons" id="280">
+        <title>Revenge of the Green Dragons - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/A_Most_Violent_Year" id="281">
+        <title>A Most Violent Year - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Son_of_a_Gun_(film)" id="282">
+        <title>Son of a Gun (film) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Cut_Bank_(film)" id="283">
+        <title>Cut Bank (film) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Ex_Machina_(film)" id="284">
+        <title>Ex Machina (film) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Slow_West" id="285">
+        <title>Slow West - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Barely_Lethal" id="295">
+        <title>Barely Lethal - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Amy_(2015_film)" id="296">
+        <title>Amy (2015 film) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Dark_Places_(2015_film)" id="297">
+        <title>Dark Places (2015 film) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Mojave_(film)" id="298">
+        <title>Mojave (film) - Wikipedia</title>
+      </bookmark>
+    </folder>
+    <folder id="55">
+      <title>Vinyl</title>
+      <bookmark href="https://blackscreenrecords.com/collections/vinyl/products/akira?variant=31809549369447" id="92">
+        <title>Akira • Soundtrack • 2xLP – Black Screen Records</title>
+      </bookmark>
+      <bookmark href="https://shiptoshoremedia.com/products/breath-of-fire" id="93">
+        <title>Breath of Fire (Original Video Game Soundtrack) | Ship to Shore PhonoCo. - Ship to Shore Media</title>
+      </bookmark>
+      <bookmark href="https://shiptoshoremedia.com/products/breath-of-fire-ii" id="94">
+        <title>Breath of Fire II | Original Video Game Soundtrack | Ship to Shore PhonoCo. - Ship to Shore Media</title>
+      </bookmark>
+      <bookmark href="https://shiptoshoremedia.com/products/breath-of-fire-iii" id="95">
+        <title>Breath of Fire III | Original Video Game Soundtrack | Ship to Shore PhonoCo. - Ship to Shore Media</title>
+      </bookmark>
+      <bookmark href="https://blackscreenrecords.com/collections/vinyl/products/dragon-age?variant=44620525928714" id="96">
+        <title>Dragon Age • 4xLP Vinyl • Soundtrack – Black Screen Records</title>
+      </bookmark>
+      <bookmark href="https://www.wayorecords.com/en/cd-tapes/665-grandia-complete-soundtrack-cd-edition.html" id="97">
+        <title>Grandia Complete Soundtrack - CD Edition</title>
+      </bookmark>
+      <bookmark href="https://www.wayorecords.com/en/vinyls/818-grandia-ii-original-soundtrack-cd.html" id="98">
+        <title>Grandia II Original Soundtrack (CD)</title>
+      </bookmark>
+      <bookmark href="https://blackscreenrecords.com/collections/vinyl/products/joe-hisaishi-a-symphonic-celebration?variant=44545189806346" id="99">
+        <title>Joe Hisaishi • A Symphonic Celebration • 2xLP – Black Screen Records</title>
+      </bookmark>
+      <bookmark href="https://blackscreenrecords.com/collections/vinyl/products/lisa?variant=44596425556234" id="100">
+        <title>Lisa: Pain &amp; Joy • Original Soundtrack • 2xLP Vinyl – Black Screen Records</title>
+      </bookmark>
+      <bookmark href="https://shiptoshoremedia.com/collections/featured/products/mother-2" id="101">
+        <title>MOTHER 2 | Original Video Game Soundtrack 2XLP | Ship to Shore PhonoCo. - Ship to Shore Media</title>
+      </bookmark>
+      <bookmark href="https://blackscreenrecords.com/collections/vinyl/products/neon-genesis-evangelion?variant=44623299346698" id="139">
+        <title>Neon Genesis Evangelion • 2xLP Vinyl • Soundtrack – Black Screen Records</title>
+      </bookmark>
+      <bookmark href="https://shiptoshoremedia.com/products/phantasy-star?_pos=4&amp;_sid=cbaca5828&amp;_ss=r" id="140">
+        <title>Phantasy Star (Original Video Game Soundtrack) | Ship to Shore PhonoCo. - Ship to Shore Media</title>
+      </bookmark>
+      <bookmark href="https://shiptoshoremedia.com/products/phantasy-star-ii" id="141">
+        <title>Phantasy Star II | Original Video Game Soundtrack | Ship to Shore PhonoCo. - Ship to Shore Media</title>
+      </bookmark>
+      <bookmark href="https://shiptoshoremedia.com/products/phantasy-star-iii" id="142">
+        <title>Phantasy Star III | Original Video Game Soundtrack | Ship to Shore PhonoCo. - Ship to Shore Media</title>
+      </bookmark>
+      <bookmark href="https://shiptoshoremedia.com/products/phantasy-star-iv?_pos=1&amp;_sid=cbaca5828&amp;_ss=r" id="143">
+        <title>Phantasy Star IV | Original Video Game Soundtrack | Ship to Shore PhonoCo. - Ship to Shore Media</title>
+      </bookmark>
+      <bookmark href="https://blackscreenrecords.com/collections/vinyl/products/ultra-blue?variant=43573021507850" id="144">
+        <title>Ultra Blue • 2xLP – Black Screen Records</title>
+      </bookmark>
+      <bookmark href="https://www.wayorecords.com/en/" id="145">
+        <title>Wayô Records Official Shop</title>
+      </bookmark>
+    </folder>
+    <folder id="56">
+      <title>Writing</title>
+      <bookmark href="https://www.reddit.com/r/worldbuilding/comments/ye4f4j/can_someone_explain_the_difference_between/" id="102">
+        <title>Can someone explain the difference between empires/kingdoms/cities/nations/city-states/other? : worldbuilding</title>
+      </bookmark>
+      <bookmark href="https://vellum.pub/" id="103">
+        <title>Vellum | Create Beautiful Books</title>
+      </bookmark>
+      <bookmark href="https://capitalizemytitle.com/page-count/164000-words/" id="104">
+        <title>How Many Pages Is 164,000 Words? - Capitalize My Title</title>
+      </bookmark>
+      <bookmark href="https://www.sfwa.org/2009/08/04/fantasy-worldbuilding-questions/" id="105">
+        <title>Fantasy Worldbuilding Questions - SFWA</title>
+      </bookmark>
+    </folder>
+    <folder id="57">
+      <title>Music</title>
+      <bookmark href="https://en.wikipedia.org/wiki/The_Cooper_Temple_Clause#Discography" id="106">
+        <title>The Cooper Temple Clause - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Jess_Williamson" id="107">
+        <title>Jess Williamson - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Black_Moth_Super_Rainbow" id="108">
+        <title>Black Moth Super Rainbow - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Future_of_the_Left#Studio_albums" id="109">
+        <title>Future of the Left - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Mclusky" id="110">
+        <title>Mclusky - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Deep_Forest" id="111">
+        <title>Deep Forest - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Rhye#Studio_albums" id="112">
+        <title>Rhye - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://kagi.com/search?q=mk" id="113">
+        <title>mk - Kagi Search</title>
+      </bookmark>
+      <bookmark href="https://kagi.com/search?q=guy+gerber" id="114">
+        <title>guy gerber - Kagi Search</title>
+      </bookmark>
+      <bookmark href="https://kagi.com/search?q=butch" id="115">
+        <title>butch - Kagi Search</title>
+      </bookmark>
+      <bookmark href="https://kagi.com/search?q=female+body+inspector+seth+troxler" id="146">
+        <title>female body inspector seth troxler - Kagi Search</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=1dU3mO36Cow&amp;list=PL64A012340DC20A51&amp;index=7" id="147">
+        <title>(6) Slum Village - Tell Me (feat. D&apos;Angelo) - YouTube</title>
+      </bookmark>
+      <bookmark href="https://kagi.com/search?q=erase+me+ben+hemsley" id="148">
+        <title>erase me ben hemsley - Kagi Search</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Brand_Nubian" id="149">
+        <title>Brand Nubian - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Aesop_Rock#Discography" id="150">
+        <title>Aesop Rock - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Black_Star_(rap_duo)" id="151">
+        <title>Black Star (rap duo) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Black_Sheep_(group)" id="152">
+        <title>Black Sheep (group) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Old_(Danny_Brown_album)" id="153">
+        <title>Old (Danny Brown album) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/A_Tribe_Called_Quest" id="154">
+        <title>A Tribe Called Quest - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Only_Built_4_Cuban_Linx..." id="155">
+        <title>Only Built 4 Cuban Linx... - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/She_Wants_Revenge#Studio_albums" id="172">
+        <title>She Wants Revenge - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Atmosphere_(music_group)#Discography" id="173">
+        <title>Atmosphere (music group) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://www.discogs.com/artist/73456-Guy-Gerber?page=2" id="174">
+        <title>Guy Gerber | Discogs</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/MK_(DJ)" id="175">
+        <title>MK (DJ) - Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://kagi.com/search?q=Seth+Troxler" id="176">
+        <title>Seth Troxler - Kagi Search</title>
+      </bookmark>
+      <bookmark href="https://en.wikipedia.org/wiki/Anything_But_Words" id="177">
+        <title>Anything But Words - Wikipedia</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://store.ui.com/us/en/pro/category/all-unifi-cloud-gateways/products/ux" id="58">
+      <title>\</title>
+    </bookmark>
+    <bookmark href="https://www.mintmobile.com/plans/" id="59">
+      <title>Phone Plans with Unlimited Talk, Text, &amp; Data | Mint Mobile</title>
+    </bookmark>
+    <bookmark href="https://en.wikipedia.org/wiki/Niamh_(mythology)" id="60">
+      <title>Niamh (mythology) - Wikipedia</title>
+    </bookmark>
+    <bookmark href="https://www.mixesdb.com/db/index.php?title=Category:Essential_Mix&amp;pageuntil=1997-04-27+-+Pete+Tong%2C+Allister+Whitehead+%40+Southport+Dance+Weekender+-+Essential+Mix#mw-pages" id="61">
+      <title>Category:Essential Mix | DJ sets &amp; tracklists on MixesDB</title>
+    </bookmark>
+    <bookmark href="https://www.animenewsnetwork.com/encyclopedia/company.php?id=2422" id="62">
+      <title>Sci-Fi Channel - Anime News Network</title>
+    </bookmark>
+    <bookmark href="https://www.amazon.com/FiiO-K11-Headphone-Amplifier-Balanced/dp/B0CJFG3DC7" id="63">
+      <title>Amazon.com: FIIO K11 Desktop 1400W Power Balanced Headphone DAC &amp; Amplifier 384kHz/24Bit DSD256 for Home Audio/PC 6.35mm/4.4mm/RCA/Coaxial/Optical (Black) : Electronics</title>
+    </bookmark>
+    <bookmark href="https://hexos.com/#earlyaccess" id="123">
+      <title>HexOS</title>
+    </bookmark>
+    <bookmark href="https://archive.org/details/tiny-11_202302" id="124">
+      <title>tiny11 : NTDEV : Free Download, Borrow, and Streaming : Internet Archive</title>
+    </bookmark>
+    <bookmark href="https://www.tirerack.com/tires/tires.jsp?tireMake=Cooper&amp;tireModel=Discoverer+Road%2BTrail+AT&amp;partnum=265HR7DRTAT&amp;vehicleSearch=true&amp;fromCompare1=yes&amp;autoMake=Ford&amp;autoYear=2022&amp;autoModel=Bronco%20Sport&amp;autoModClar=Big%20Bend" id="125">
+      <title>Cooper Discoverer Road+Trail AT | 225/65R17 | Tire Rack</title>
+    </bookmark>
+    <bookmark href="https://proxy-seller.com/personal/orders/" id="126">
+      <title>Personal dashboard | Orders</title>
+    </bookmark>
+    <bookmark href="https://alfred.cx/" id="127">
+      <title>Alfred | ready to serve your comics.</title>
+    </bookmark>
+    <bookmark href="https://github.com/ajslater/codex" id="128">
+      <title>GitHub - ajslater/codex: Codex is a web based comic archive browser and reader</title>
+    </bookmark>
+    <bookmark href="https://demo.codex-reader.app/s/11/1#card-1" id="156">
+      <title>Codex</title>
+    </bookmark>
+    <bookmark href="https://selfh.st/apps/" id="157">
+      <title>Self-Hosted Software and Apps</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/results?search_query=immich+install" id="158">
+      <title>(6) immich install - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.kavitareader.com/" id="159">
+      <title>Kavita</title>
+    </bookmark>
+    <bookmark href="https://komga.org/docs/category/guides" id="160">
+      <title>Guides | Komga</title>
+    </bookmark>
+    <bookmark href="https://hub.docker.com/r/ajslater/codex" id="161">
+      <title>ajslater/codex - Docker Image | Docker Hub</title>
+    </bookmark>
+    <bookmark href="https://kagi.com/search?q=comic+reader+dropbox+ios" id="178">
+      <title>comic reader dropbox ios - Kagi Search</title>
+    </bookmark>
+    <bookmark href="https://drive.google.com/file/d/0B4HpRCi5DJPGSDVuYmJkZnBWOTg/view?resourcekey=0-AMu6Lq4HI5hgE8jWwiUwZg" id="179">
+      <title>X-Guide.pdf - Google Drive</title>
+    </bookmark>
+    <bookmark href="https://neko.m1k1o.net/?ref=selfh.st#/?id=neko" id="180">
+      <title>n.eko</title>
+    </bookmark>
+    <bookmark href="https://cal.com/?ref=selfh.st" id="181">
+      <title>Cal.com | Open Scheduling Infrastructure</title>
+    </bookmark>
+    <bookmark href="https://it-tools.tech/?ref=selfh.st" id="182">
+      <title>IT Tools - Handy online tools for developers</title>
+    </bookmark>
+    <bookmark href="https://frigate.video/?ref=selfh.st" id="183">
+      <title>Frigate NVR</title>
+    </bookmark>
+    <bookmark href="https://crazymax.dev/ftpgrab/?ref=selfh.st" id="194">
+      <title>FTPGrab</title>
+    </bookmark>
+    <bookmark href="https://sftpgo.com/?ref=selfh.st" id="195">
+      <title>SFTP &amp; FTP as a Managed Service (SaaS) and On-premise</title>
+    </bookmark>
+    <bookmark href="https://miniflux.app/?ref=selfh.st" id="196">
+      <title>Miniflux - Minimalist and Opinionated Feed Reader</title>
+    </bookmark>
+    <bookmark href="https://actualbudget.org/?ref=selfh.st" id="197">
+      <title>Actual | Actual Budget Documentation</title>
+    </bookmark>
+    <bookmark href="https://shlink.io/?ref=selfh.st" id="198">
+      <title>Shlink — The URL shortener</title>
+    </bookmark>
+    <bookmark href="https://github.com/go-shiori/shiori?ref=selfh.st" id="199">
+      <title>GitHub - go-shiori/shiori at selfh.st</title>
+    </bookmark>
+    <bookmark href="https://www.etesync.com/?ref=selfh.st" id="200">
+      <title>EteSync - Secure Data Sync</title>
+    </bookmark>
+    <bookmark href="https://linkwarden.app/?ref=selfh.st" id="211">
+      <title>Linkwarden</title>
+    </bookmark>
+    <bookmark href="https://xbackbone.app/?ref=selfh.st" id="212">
+      <title>Home | XBackBone</title>
+    </bookmark>
+    <bookmark href="https://www.tubearchivist.com/?ref=selfh.st" id="213">
+      <title>Tube Archivist</title>
+    </bookmark>
+    <bookmark href="https://p2p.mirotalk.com/?ref=selfh.st" id="214">
+      <title>MiroTalk a Free Secure Video Calls, Chat &amp; Screen Sharing.</title>
+    </bookmark>
+    <bookmark href="https://github.com/hudikhq/hoodik?ref=selfh.st" id="215">
+      <title>GitHub - hudikhq/hoodik at selfh.st</title>
+    </bookmark>
+    <bookmark href="https://github.com/SecureAI-Tools/SecureAI-Tools?ref=selfh.st" id="216">
+      <title>GitHub - SecureAI-Tools/SecureAI-Tools at selfh.st</title>
+    </bookmark>
+    <bookmark href="https://rivenmedia.github.io/wiki/" id="217">
+      <title>Riven</title>
+    </bookmark>
+    <bookmark href="https://github.com/immichFrame/ImmichFrame?ref=selfh.st" id="218">
+      <title>GitHub - immichFrame/ImmichFrame at selfh.st</title>
+    </bookmark>
+    <bookmark href="https://github.com/nandyalu/trailarr?ref=selfh.st" id="229">
+      <title>GitHub - nandyalu/trailarr at selfh.st</title>
+    </bookmark>
+    <bookmark href="https://github.com/jon6fingrs/ghostboard?ref=selfh.st" id="230">
+      <title>GitHub - jon6fingrs/ghostboard at selfh.st</title>
+    </bookmark>
+    <bookmark href="https://linkding.link/?ref=selfh.st" id="231">
+      <title>linkding | linkding</title>
+    </bookmark>
+    <bookmark href="https://www.qobuz.com/us-en/awards/qobuz/discotheque_ideale/download-streaming-albums" id="232">
+      <title>Albums The Qobuz Essential Discography - Qobuz</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/605960" id="233">
+      <title>An Awakening - Matt Berry - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://en.wikipedia.org/wiki/The_Orb#Discography" id="234">
+      <title>The Orb - Wikipedia</title>
+    </bookmark>
+    <bookmark href="https://en.wikipedia.org/wiki/Orbital_(band)#Discography" id="235">
+      <title>Orbital (band) - Wikipedia</title>
+    </bookmark>
+    <bookmark href="https://www.reddit.com/r/windows/comments/18gvwib/how_to_disable_automatic_updates_on_windows_11_pro/" id="236">
+      <title>How to disable automatic updates on windows 11 pro? : r/windows</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/42677" id="237">
+      <title>Hot Chip - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/46042" id="248">
+      <title>The Killers - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/121229" id="249">
+      <title>Art Brut - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/49965" id="250">
+      <title>Clinic - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/69600" id="251">
+      <title>Two Door Cinema Club - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/354524" id="252">
+      <title>Silversun Pickups - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/125958" id="253">
+      <title>The Bravery - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/148199" id="254">
+      <title>The Airborne Toxic Event - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/75739" id="255">
+      <title>Muse - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/53677" id="256">
+      <title>Garbage - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/791491" id="267">
+      <title>Atlas Genius - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/299301" id="268">
+      <title>Band of Horses - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/73101" id="269">
+      <title>The Duke Spirit - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/43837" id="270">
+      <title>Placebo - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/333747" id="271">
+      <title>Darker My Love - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/111979" id="272">
+      <title>Cage The Elephant - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/492169" id="273">
+      <title>The Temper Trap - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/204732" id="274">
+      <title>Maxïmo Park - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/239672" id="275">
+      <title>The Futureheads - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/384460" id="286">
+      <title>The Libertines - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/418655" id="287">
+      <title>Hot Hot Heat - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/54385" id="288">
+      <title>Razorlight - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/111983" id="289">
+      <title>LCD Soundsystem - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/38584" id="290">
+      <title>We Are Scientists - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/53215" id="291">
+      <title>The Rakes - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/237844" id="292">
+      <title>The Dead 60s - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/239697" id="293">
+      <title>Moving Units - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/130830" id="294">
+      <title>The Hives - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/48090" id="299">
+      <title>Klaxons - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/42674" id="300">
+      <title>The Presets - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/384466" id="301">
+      <title>Islands - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/118676" id="302">
+      <title>The Ting Tings - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/45958" id="303">
+      <title>Babyshambles - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/62803" id="304">
+      <title>Dirty Pretty Things - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/611608" id="305">
+      <title>!!! - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/653671" id="306">
+      <title>Some Velvet Morning - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/42695" id="307">
+      <title>Late Of The Pier - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/167598" id="308">
+      <title>Kasabian - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/48179" id="309">
+      <title>Metronomy - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/502827" id="310">
+      <title>Death From Above 1979 - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/121778" id="311">
+      <title>MSTRKRFT - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/392962" id="312">
+      <title>The Rapture - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/3712059" id="313">
+      <title>Battle Tapes - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://en.wikipedia.org/wiki/Hot_Action_Cop_(album)" id="314">
+      <title>Hot Action Cop (album) - Wikipedia</title>
+    </bookmark>
+    <bookmark href="https://en.wikipedia.org/wiki/The_Avalanches" id="315">
+      <title>The Avalanches - Wikipedia</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/48201" id="316">
+      <title>Chromeo - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/596410" id="317">
+      <title>Portugal. The Man - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/745440" id="318">
+      <title>Electric Guest - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/118680" id="319">
+      <title>MGMT - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/386356" id="320">
+      <title>Holy Ghost! - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/42638" id="321">
+      <title>Digitalism - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/111444" id="322">
+      <title>Jamiroquai - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/630989" id="323">
+      <title>Neon Indian - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/300182" id="324">
+      <title>Hurts - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/43365" id="325">
+      <title>Cut Copy - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/178972" id="326">
+      <title>Miami Horror - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/359597" id="327">
+      <title>Bag Raiders - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/452176" id="328">
+      <title>Datarock - Qobuz Web Player</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/artist/173935" id="329">
+      <title>Lo Fidelity Allstars - Qobuz Web Player</title>
+    </bookmark>
+  </folder>
+</folder>
+<folder id="3">
+  <title>Other Bookmarks</title>
+  <folder id="15">
+    <title>Archive</title>
+    <bookmark href="https://trash-guides.info/" id="64">
+      <title>TRaSH Guides</title>
+    </bookmark>
+    <bookmark href="https://rentry.org/firehawk52" id="65">
+      <title>Firehawk52 Official - Saving Digital Legacy</title>
+    </bookmark>
+    <bookmark href="https://filehostlist.miraheze.org/wiki/Free_Premium_Leeches" id="66">
+      <title>Free Premium Leeches - File Hosting Wiki</title>
+    </bookmark>
+    <folder id="67">
+      <title>Roms</title>
+      <bookmark href="https://vimm.net/" id="116">
+        <title>Vimm&amp;#39;s Lair</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/spreadsheets/d/e/2PACX-1vStPQadId5yrFm721VDj1CBO7l_eGvJN2YtVWHONHTK4iHHWiQBCEQAi9zOnvpHKegUzeWRyhtn7AjT/pubhtml" id="117">
+        <title>Games Collection - Google Drive</title>
+      </bookmark>
+      <bookmark href="https://emulation.gametechwiki.com/index.php/Main_Page" id="118">
+        <title>Emulation General Wiki</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://github.com/seanap/Plex-Audiobook-Guide" id="68">
+      <title>seanap/Plex-Audiobook-Guide: A walkthrough for optimal Audiobook experience using Plex</title>
+    </bookmark>
+    <bookmark href="https://fmhy.pages.dev/" id="69">
+      <title>freemediaheckyeah</title>
+    </bookmark>
+    <bookmark href="https://myrient.erista.me/" id="70">
+      <title>Myrient | Home Page</title>
+    </bookmark>
+    <bookmark href="https://play.qobuz.com/label/1555" id="71">
+      <title>Hollywood Records - Qobuz Web Player</title>
+    </bookmark>
+  </folder>
+</folder>
+<folder id="4">
+  <title>Mobile Bookmarks</title>
+</folder>
+</xbel>
