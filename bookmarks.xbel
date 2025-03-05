@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :329: for Floccus bookmark sync browser extension -->
+<!--- highestId :330: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Menu</title>
@@ -941,6 +941,9 @@
       <title>Datarock - Qobuz Web Player</title>
     </bookmark>
   </folder>
+  <bookmark href="https://bendodson.com/projects/itunes-artwork-finder/" id="330">
+    <title>iTunes Artwork Finder by Ben Dodson</title>
+  </bookmark>
 </folder>
 <folder id="3">
   <title>Other Bookmarks</title>
