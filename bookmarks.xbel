@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :330: for Floccus bookmark sync browser extension -->
+<!--- highestId :331: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Menu</title>
@@ -943,6 +943,9 @@
   </folder>
   <bookmark href="https://bendodson.com/projects/itunes-artwork-finder/" id="330">
     <title>iTunes Artwork Finder by Ben Dodson</title>
+  </bookmark>
+  <bookmark href="https://incogni.com/screencrush?did=dsc_01j5x9kbvg415nd9mz8f8na57d" id="331">
+    <title>Personal Information Removal Service | Incogni | Incogni</title>
   </bookmark>
 </folder>
 <folder id="3">
