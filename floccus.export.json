@@ -1,0 +1,27 @@
+[
+  {
+    "localRoot": "root________",
+    "strategy": "default",
+    "syncInterval": 15,
+    "nestedSync": true,
+    "failsafe": true,
+    "allowNetwork": false,
+    "label": "Bookmarks",
+    "errorCount": 0,
+    "clickCountEnabled": false,
+    "type": "git",
+    "url": "https://github.com/hamellco/firefoxstuff.git",
+    "username": "hamellco",
+    "password": "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",
+    "branch": "main",
+    "bookmark_file": "bookmarks.xbel",
+    "bookmark_file_type": "xbel",
+    "includeCredentials": false,
+    "allowRedirects": false,
+    "enabled": true,
+    "syncing": false,
+    "scheduled": false,
+    "error": null,
+    "lastSync": 1741695371919
+  }
+]
