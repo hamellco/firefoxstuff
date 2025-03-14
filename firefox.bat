@@ -9,9 +9,31 @@ set SEVEN_ZIP="C:\Program Files\7-Zip\7z.exe"
 set BAT_FILE=%~f0
 set BAT_NAME=%~nx0
 
-echo Starting Firefox config update and backup...
+echo Starting Firefox config backup and update...
 
-REM Part 1: Update GitHub repo with user.js and policies.json
+REM Part 1: Create 7-Zip backup of profile essentials
+echo Preparing Firefox profile backup...
+
+REM Create temp directory
+if not exist "%TEMP_DIR%" mkdir "%TEMP_DIR%"
+
+REM Copy essential files to temp directory
+echo Copying essential files...
+copy "%PROFILE_DIR%\prefs.js" "%TEMP_DIR%\"
+if exist "%PROFILE_DIR%\user.js" copy "%PROFILE_DIR%\user.js" "%TEMP_DIR%\"
+copy "%PROFILE_DIR%\places.sqlite" "%TEMP_DIR%\"
+copy "%PROFILE_DIR%\cookies.sqlite" "%TEMP_DIR%\"
+xcopy "%PROFILE_DIR%\extensions" "%TEMP_DIR%\extensions" /E /H /C /I
+
+REM Create 7-Zip archive with ultra compression
+echo Creating 7-Zip archive with ultra compression...
+%SEVEN_ZIP% a -t7z -mx9 "%ZIP_FILE%" "%TEMP_DIR%\*"
+
+REM Clean up temp directory
+echo Cleaning up temp directory...
+rmdir /S /Q "%TEMP_DIR%"
+
+REM Part 2: Update GitHub repo with user.js, policies.json, .7z, and this script
 echo Updating Firefox configs for GitHub...
 
 if exist "%USER_JS%" (
@@ -32,31 +54,9 @@ copy "%BAT_FILE%" "%REPO_DIR%\%BAT_NAME%"
 
 REM Commit and push to GitHub
 cd /d "%REPO_DIR%"
-git add user.js policies.json %BAT_NAME%
-git commit -m "Update Firefox configs and script - %DATE% %TIME%"
+git add user.js policies.json firefox_profile_essentials.7z %BAT_NAME%
+git commit -m "Update Firefox configs, backup, and script - %DATE% %TIME%"
 git push origin main
 
-REM Part 2: Create 7-Zip backup of profile essentials
-echo Preparing Firefox profile backup...
-
-REM Create temp directory
-if not exist "%TEMP_DIR%" mkdir "%TEMP_DIR%"
-
-REM Copy essential files to temp directory
-echo Copying essential files...
-copy "%PROFILE_DIR%\prefs.js" "%TEMP_DIR%\"
-if exist "%PROFILE_DIR%\user.js" copy "%PROFILE_DIR%\user.js" "%TEMP_DIR%\"
-copy "%PROFILE_DIR%\places.sqlite" "%TEMP_DIR%\"
-copy "%PROFILE_DIR%\cookies.sqlite" "%TEMP_DIR%\"
-xcopy "%PROFILE_DIR%\extensions" "%TEMP_DIR%\extensions" /E /H /C /I
-
-REM Create 7-Zip archive with ultra compression
-echo Creating 7-Zip archive with ultra compression...
-%SEVEN_ZIP% a -t7z -mx9 "%ZIP_FILE%" "%TEMP_DIR%\*"
-
-REM Clean up temp directory
-echo Cleaning up...
-rmdir /S /Q "%TEMP_DIR%"
-
-echo Process complete! GitHub updated and backup saved to %ZIP_FILE%
+echo Process complete! Backup saved to %ZIP_FILE% and GitHub updated.
 pause
