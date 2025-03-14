@@ -27,13 +27,18 @@
       }
     },
     "AppAutoUpdate": false,
-    "DisableAppUpdate": false,
+    "DisableAppUpdate": true,
+    "DisableAppUpdateUI": true,
     "UserMessaging": {
       "FirefoxLabs": false
     },
     "Preferences": {
       "browser.preferences.moreFromMozilla": {
         "Value": false,
+        "Status": "locked"
+      },
+      "app.update.disabledForTesting": {
+        "Value": true,
         "Status": "locked"
       }
     }

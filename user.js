@@ -204,6 +204,25 @@ user_pref("privacy.prioritize_ad_measurement", false);
 // PREF: Disable telemetry coverage reporting
 user_pref("toolkit.telemetry.coverage.opt-out", true);
 
+/****************************************************************************
+ * SECTION: DISABLE UPDATES
+****************************************************************************/
+
+// PREF: Disable application updates
+user_pref("app.update.enabled", false);
+// PREF: Disable background update checks
+user_pref("app.update.auto", false);
+// PREF: Disable update notifications
+user_pref("app.update.silent", false);
+// PREF: Disable update service
+user_pref("app.update.service.enabled", false);
+// PREF: Disable update staging
+user_pref("app.update.staging.enabled", false);
+// PREF: Disable update badge and UI prompts
+user_pref("app.update.badge", false);
+user_pref("browser.update.enabled", false);
+user_pref("browser.update.showUpdatePrompt", false);
+
 /** EXPERIMENTS **/
 // PREF: Disable installing and running studies
 user_pref("app.shield.optoutstudies.enabled", false);
